@@ -1,3 +1,6 @@
+WHAAAZAAAAAAAAAAP!!!
+
+
 Unzip the theme and put the folder in the texture folder of ninjam plus.
 
 Example for VST3:
