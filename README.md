@@ -1,5 +1,6 @@
 WHAAAZAAAAAAAAAAP!!!
 
+These themes are created with cloud ai.
 
 Unzip the theme and put the folder in the texture folder of ninjam plus.
 
